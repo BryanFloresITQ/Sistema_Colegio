@@ -1,0 +1,18 @@
+Admin
+Logueo
+Crud de Materias
+Crud de Profesores
+Crud de Alumnos
+Crud de Notas
+Creación de todos los PDFs
+
+Profesor
+Logueo
+Crud de Alumnos
+Crud de Notas
+Creación PDF materia y alumno
+
+Alumno
+Logueo
+Creación PDF alumno
+
